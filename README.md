@@ -8,6 +8,6 @@ cd Rythm-Tuga
 pip3 install -r requirements.txt
 python3 main.py
 ```
-Link de invite do bot oficial [aqui](https://discord.com/api/oauth2/authorize?client_id=888100964534456361&permissions=0&scope=bot)
+Link de invite do bot oficial [aqui](https://discord.com/api/oauth2/authorize?client_id=888100964534456361&permissions=0&scope=bot).
 
-[discord.py]: https://github.com/Rapptz/discord.py.
+[discord.py]: https://github.com/Rapptz/discord.py
