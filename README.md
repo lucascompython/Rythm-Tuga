@@ -1,6 +1,6 @@
 # Rythm-Tuga
 Rythm(bot do discord que faleceu) so que tuga feito com [discord.py] :) <br />
-Edit: O [discord.py] tambem faleceu, recomendo o [nextcord](https://github.com/nextcord/nextcord).
+Edit: O [discord.py] tambem faleceu, recomendo o [py-cord](https://github.com/nextcord/nextcord).
 ## Instalação
 ```sh
 git clone https://github.com/lucascompython/Rythm-Tuga.git
